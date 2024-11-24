@@ -1,0 +1,4 @@
+/Users/abrahamasemota/Desktop/myweb.api/myweb.api/obj/Debug/net6.0/myweb.api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abrahamasemota/Desktop/myweb.api/myweb.api/obj/Debug/net6.0/myweb.api.AssemblyInfoInputs.cache
+/Users/abrahamasemota/Desktop/myweb.api/myweb.api/obj/Debug/net6.0/myweb.api.AssemblyInfo.cs
+/Users/abrahamasemota/Desktop/myweb.api/myweb.api/obj/Debug/net6.0/myweb.api.csproj.CoreCompileInputs.cache
